@@ -37,4 +37,6 @@ Docker enables you to separate your applications from your infrastructure so you
 * RUN
 * CMD
 
+https://www.youtube.com/watch?v=8vmKtS8W7IQ&t=11s
+
 
